@@ -1,0 +1,58 @@
+div.container {
+    width: 100%;
+}
+
+header {
+    background-color: #1A237E;
+    padding: 1em;
+    color: white;
+    clear: left;
+    text-align: center;
+}
+
+body {
+    font-family: Roboto;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    font-family: "Open Sans";
+}
+
+.tablink {
+    background-color: #3F51B5;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 50%;
+}
+
+.tablink:hover {
+    background-color: #7986CB;
+}
+
+.tabcontent {
+    color: #333;
+    display: none;
+    padding: 50px;
+    text-align: center;
+}
+
+#tabintro { background-color: #f5f5f5; }
+#tababout { background-color: #f5f5f5; }
+
+/* CSS membuat halaman terlihat bagus, dan ya, CSS juga memiliki sebagian dari flag tersebut. Berikut bagian 2: 1tu_b4ny */
+
+footer {
+    background-color: #1A237E;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
